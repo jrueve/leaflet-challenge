@@ -46,7 +46,7 @@ This part is completely optional; you can complete this part as a way to challen
 
 The following image is an example screenshot of what you should produce:
 
-5-Advanced
+![image](https://github.com/user-attachments/assets/f3496527-2340-45f1-a3cf-ef45736bb2f1)
 
 Perform the following tasks:
 
